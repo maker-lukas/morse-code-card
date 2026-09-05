@@ -113,4 +113,6 @@ Then I took screenshots and ploted the Schematic and added those to the README.
 
 And finally the Firmware I found this simple example of various things the ch32 Touch Key and a simple morse code so I just pretty fast adopted a version its pretty simple and will update when i get the real thing in my hands.
 
+![repo](https://cdn.hackclub.com/01a06f13-1a3b-7dde-b42d-3b7cb9ab7362/Screenshot%202026-09-05%20at%2001-57-28%20maker-lukas_morse-code-card.png)
+
 **Total time spent: 2h**

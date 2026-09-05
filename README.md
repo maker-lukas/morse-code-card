@@ -18,7 +18,7 @@
 | CH32V203G6U6 | Microcontroller | €1.2277 | [C5142280](https://www.lcsc.com/product-detail/_C5142280.html) |
 | XZVG45WT-9 | LEDs | $10.00 | [C7129856](https://www.lcsc.com/product-detail/_C7129856.html) |
 | BAT-HLD-001-TR SMD | Battery Holder | ~$0.47–0.58 | Could not find exact link | 
-| **Total** |  | **€23.64, 27.46$** | | 
+| **Total** |  | **€35.56, 41.30$** | | 
 
 ## Images
 

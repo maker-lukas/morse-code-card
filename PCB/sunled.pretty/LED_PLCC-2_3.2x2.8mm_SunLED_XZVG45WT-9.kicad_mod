@@ -7,7 +7,7 @@
 		(at 0 -4 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "e0ef5892-1b25-49e0-9a48-2cde0091138a")
+		(uuid "8fed718b-161d-45a5-8546-8b31e5cf01a0")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 		(at 0 4 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "922773ad-dea8-4eb8-9952-6e531ee350a2")
+		(uuid "b3a1fee8-4931-4a21-8233-1573e2e51841")
 		(effects
 			(font
 				(size 1 1)
@@ -31,7 +31,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "79c5bdf1-c9e4-4548-a998-9e14abc42f82")
+		(uuid "8f3504a6-6763-42a3-80ab-4587541d269e")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -42,7 +42,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "7ed4b61b-1502-4673-89b7-b1fd6c3e2a2d")
+		(uuid "d4e110f4-84f3-46c5-9678-bac56eaa3482")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -53,7 +53,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "496a1515-ef4e-4630-a624-2bc727d3159b")
+		(uuid "9cb8a43c-c63f-4723-a667-a47f95d831b5")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -71,7 +71,7 @@
 		)
 		(fill yes)
 		(layer "F.Mask")
-		(uuid "3acfc251-1ff8-4518-87e3-448cb3b2a4ef")
+		(uuid "ab5ed7d5-5f17-48a7-b407-b07fda26562d")
 	)
 	(fp_circle
 		(center 0 0)
@@ -82,7 +82,7 @@
 		)
 		(fill yes)
 		(layer "B.Mask")
-		(uuid "13b28df7-1cfc-40e0-8398-1ae1e2e6e100")
+		(uuid "e9bfb5e3-3dce-4abe-840f-cd41a2c9cf55")
 	)
 	(fp_line
 		(start -1.6 -1.4)
@@ -92,7 +92,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "276ab474-6e76-4171-8ad7-ef44f4585855")
+		(uuid "7e78e2f9-2246-40f4-8b21-e654125e0fde")
 	)
 	(fp_line
 		(start -1.6 1.4)
@@ -102,7 +102,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "75434137-ac33-4715-9e45-fcc31ba44c69")
+		(uuid "9b27671e-d033-493c-a3f8-26eb6b45d241")
 	)
 	(fp_line
 		(start 1.6 -1.4)
@@ -112,7 +112,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "a0658f8e-8f7a-42e3-8656-dfa80edb74d0")
+		(uuid "ebb1385b-d2a7-40c5-aba5-ebd8a80620c6")
 	)
 	(fp_line
 		(start 1.6 1.4)
@@ -122,7 +122,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "536db3db-7f27-4fda-80e2-ff57ddb5194e")
+		(uuid "ccf92e5b-742b-4d67-a457-9cfec211edfa")
 	)
 	(fp_poly
 		(pts
@@ -134,18 +134,7 @@
 		)
 		(fill yes)
 		(layer "F.SilkS")
-		(uuid "9c7019f2-5e95-4173-8407-d93bc9f9d7b4")
-	)
-	(fp_circle
-		(center 0 0)
-		(end -0.45 1.65)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill no)
-		(layer "Margin")
-		(uuid "6703af1d-030b-4e9d-b4e8-757d63de57c6")
+		(uuid "5530845e-93d3-4e68-97ea-caa5026227af")
 	)
 	(fp_line
 		(start -1.6 -1.4)
@@ -155,7 +144,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "7721a53d-6c38-4d97-aa6d-41ca49c7ceb0")
+		(uuid "cd07db40-f0b1-48e9-8d69-ba32cf4a2413")
 	)
 	(fp_line
 		(start -1.6 1.4)
@@ -165,7 +154,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "1101c98e-78a4-4b56-8e73-914d66c4a35f")
+		(uuid "61b1b0b2-13cd-4288-be5d-b8c7fcb37bb1")
 	)
 	(fp_line
 		(start 1.6 -1.4)
@@ -175,7 +164,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "e39e87b1-0acc-4a99-8767-19f51ef8af75")
+		(uuid "188e8adf-420f-4521-9c84-44123c2bce24")
 	)
 	(fp_line
 		(start 1.6 1.4)
@@ -185,12 +174,12 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "08ac410d-2816-4fcb-9364-96fe7c85904c")
+		(uuid "4a0afb51-107a-46f4-be00-75a1ad505015")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "515be9f4-53a5-4e7e-b087-c248bb9fc9b8")
+		(uuid "f2853b89-4880-4754-864d-9d683d57bd1c")
 		(effects
 			(font
 				(size 1 1)
@@ -203,18 +192,18 @@
 		(size 1 2.8)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(uuid "5a1a19cd-87df-42ec-a9fc-dfda876f36e7")
+		(uuid "22bd327c-aa72-4ae9-a536-49ed37dd2afc")
 	)
 	(pad "2" smd roundrect
 		(at 2.35 0 180)
 		(size 1 2.8)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(uuid "5d277c23-7573-47d4-8088-9b13b13440d7")
+		(uuid "e2f6d284-9608-40da-b106-a992e2519e10")
 	)
 	(zone
 		(layers "F.Cu" "B.Cu")
-		(uuid "116424f4-fb76-452c-88bd-f5ebe16f657b")
+		(uuid "ec06ce51-f59d-48dc-b268-a6f880736a17")
 		(hatch edge 0.5)
 		(connect_pads
 			(clearance 0)

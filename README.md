@@ -5,7 +5,7 @@
 - Dot/Dash pads with Touch Key peripheral
 - Coincell powered
 - Morse code tree
-- Underglow LEDs with shine thru PCB
+- Underglow LEDs with shine through PCB
 
 ## BOM
 
@@ -16,9 +16,10 @@
 | 470Ω 0603 (0603WAF4700T5E) | Resistors | €0.0258 | [C23179](https://www.lcsc.com/product-detail/_C23179.html) |
 | SW_Push (KMR221GLFS) | Switches | €2.7907 | [C72443](https://www.lcsc.com/product-detail/_C72443.html) |
 | CH32V203G6U6 | Microcontroller | €1.2277 | [C5142280](https://www.lcsc.com/product-detail/_C5142280.html) |
-| XZVG45WT-9 | LEDs | $10.00 | [C7129856](https://www.lcsc.com/product-detail/_C7129856.html) |
-| BAT-HLD-001-TR SMD | Battery Holder | ~$0.47–0.58 | Could not find exact link | 
-| **Total** |  | **€35.56, 41.30$** | | 
+| XZVG45WT-9 | LEDs | €44.11 | [C7129856](https://www.lcsc.com/product-detail/_C7129856.html) |
+| CR2032 holder | Battery Holder | €7.57 | [Aliexpress](https://aliexpress.com/item/1005001361487297.html) | 
+| PCB + PCBA | All the components besides the leds and battery holder price are in this | €24.31 | [jlcpcb](jlcpcb.com) |
+| **Total** |  | **~€82.22, ~$95.32** | | 
 
 ## Images
 
